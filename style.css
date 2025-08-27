@@ -51,3 +51,34 @@ html, body {
     color: #00ffea;
     transform: scale(1.5);
 }
+
+#section1 {
+    top: 52%;
+    left: 55%;
+    width: 70%;
+    margin: auto;
+}
+
+#h {
+    margin-top: 15px;
+    font-size: 70px;
+    font-weight: lighter;
+    line-height: 80px;
+    padding: auto;
+
+}
+#s {
+    font-size: 80px;
+    font-weight: lighter;
+    line-height: 50px;
+    padding: auto;
+    text-align: center;
+}
+#d {
+    font-size: 80px;
+    font-weight: lighter;
+    line-height: 50px;
+    padding: auto;
+    text-align: right;
+}
+

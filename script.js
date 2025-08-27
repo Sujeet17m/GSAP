@@ -26,6 +26,14 @@ tl.from(".main > h1", {
   ease: "power2.out"
 });
 
+tl.from(".main > #section1", {
+  y: 50,
+  opacity: 0,
+  duration: 1,
+  stagger: 0.2,
+  ease: "power2.out"
+});
+
 tl.from(".main > h6", {
   x: -50,
   opacity: 0,
