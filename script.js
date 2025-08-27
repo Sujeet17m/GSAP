@@ -26,7 +26,7 @@ tl.from(".main > h1", {
   ease: "power2.out"
 });
 
-tl.from(".main > h2", {
+tl.from(".main > h6", {
   x: -50,
   opacity: 0,
   duration: 1,
